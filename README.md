@@ -4,6 +4,8 @@ This Python library provides an interface for the Amprobe TMD-56 Multi-logging D
 
 The library allows easy reading of temperature data from the sensor via a serial connection.
 
+Heavily inspired by u/unawino on reddit who kindly shared this script https://pastebin.com/T5aJugGX
+
 ## Installation
 
 1. Ensure you have Python 3.6 or later installed on your system.
